@@ -1,7 +1,7 @@
 <template>
     <Layout>
         <div>
-            dfdfdfdf
+
         </div>
     </Layout>
 </template>
